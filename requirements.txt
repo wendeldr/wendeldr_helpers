@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+statsmodels
+tqdm
+setuptools
+openpyxl
+pyarrow
